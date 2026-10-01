@@ -4,5 +4,8 @@
     "assets": {
         "directory": "./build",
         "not_found_handling": "404-page"
+    },
+    "vars": {
+        "WEB_DEFAULT_API": "https://api.cobalt.tutel.page"
     }
 }
