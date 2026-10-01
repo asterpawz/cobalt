@@ -1,0 +1,11 @@
+# builds
+/build
+/.svelte-kit
+/package
+
+# vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# my useless env for some reason
+.env
